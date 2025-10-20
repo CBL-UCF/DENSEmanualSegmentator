@@ -30,4 +30,3 @@ stack-data==0.6.3
 tornado==6.5.2
 typing_extensions==4.15.0
 wcwidth==0.2.14
-
