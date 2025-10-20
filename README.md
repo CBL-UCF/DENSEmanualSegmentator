@@ -21,7 +21,7 @@ The tool supports loading DICOM files and optionally uses MAT files (from the DE
 Since the `data` folder cannot be uploaded, ensure your data is organized as follows:
 
 data/
-**├── DICOM/
+- **├── DICOM/
 **│   ├── Mag/      # Magnitude DICOM files.
 **│   ├── X-encPha/ # X-phase encoded DICOM files.
 **│   ├── Y-encPha/ # Y-phase encoded DICOM files.
