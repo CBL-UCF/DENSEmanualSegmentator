@@ -1,5 +1,3 @@
-# DENSEmanualSegmentator
-
 # DENSE Manual Segmentator
 
 This repository provides a tool for manual segmentation of DENSE MRI data, enabling users to interactively edit contours and visualize results. 
