@@ -20,12 +20,14 @@ The tool supports loading DICOM files and optionally uses MAT files (from the DE
 
 Since the `data` folder cannot be uploaded, ensure your data is organized as follows:
 
+```text
 data/
-|-- DICOM/
-|   |-- Mag/          # Magnitude DICOM files
-|   |-- X-encPha/     # X-phase encoded DICOM files
-|   |-- Y-encPha/     # Y-phase encoded DICOM files
-|   `-- Z-encPha/     # Z-phase encoded DICOM files
-`-- MAT/
-    `-- *.mat         # MAT files from the DENSE-Analysis toolbox (optional)
+├── DICOM/
+│   ├── Mag/          # Magnitude DICOM files
+│   ├── X-encPha/     # X-phase encoded DICOM files
+│   ├── Y-encPha/     # Y-phase encoded DICOM files
+│   └── Z-encPha/     # Z-phase encoded DICOM files
+└── MAT/
+    └── *.mat         # MAT files from the DENSE-Analysis toolbox (optional)
+```
 
