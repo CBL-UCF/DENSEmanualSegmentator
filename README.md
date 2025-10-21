@@ -22,12 +22,18 @@ Since the `data` folder cannot be uploaded, ensure your data is organized as fol
 
 ```text
 data/
-├── DICOM/
+├── DICOM/            # **INPUT**
 │   ├── Mag/          # Magnitude DICOM files
 │   ├── X-encPha/     # X-phase encoded DICOM files
 │   ├── Y-encPha/     # Y-phase encoded DICOM files
 │   └── Z-encPha/     # Z-phase encoded DICOM files
-└── MAT/
+└── MAT/              # **INPUT (Optional)**
     └── *.mat         # MAT files from the DENSE-Analysis toolbox (optional)
+├── NIFTI/            # **Output**
+│   ├── Mag/          # Magnitude Nifti files
+│   ├── Mask/         # Mask Nifti files (main output)
+│   ├── PhsX/         # Phase-X Nifti files
+│   ├── PhsY/         # Y-phase encoded DICOM files
+│   └── PhsZ/         # Z-phase encoded DICOM files
 ```
 
