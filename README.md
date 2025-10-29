@@ -73,7 +73,7 @@ The graphical user interface (GUI) is designed for efficient manual segmentation
 | **`Ctrl` + `Z`** | **Undo** the last contour modification on the *current frame*.           |
 | **`Enter`** | **Close** the application window (does not save automatically).          |
 
-### Control Buttons
+### Control Buttons 🔴
 
 * **`<< Prev` / `Next >>`**: Navigate between time frames.
 * **`Copy from << Prev Frame`**: Replaces the current frame's contours with the contours from the previous frame.
