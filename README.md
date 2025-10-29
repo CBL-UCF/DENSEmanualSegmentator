@@ -3,9 +3,11 @@
 This repository provides a tool for manual segmentation of DENSE MRI data, enabling users to interactively edit contours and visualize results. 
 The tool supports loading DICOM files and optionally uses MAT files (from the DENSE-Analysis toolbox) to initialize contours.
 
+[![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ---
 
-## Features
+## ✨ Features
 
 - **Interactive GUI**: Allows users to manually adjust contours (Epi and Endo) using draggable points.
 - **DICOM Support**: Loads DICOM files for magnitude and phase data.
@@ -14,7 +16,7 @@ The tool supports loading DICOM files and optionally uses MAT files (from the DE
 
 ---
 
-## Expected Data Structure
+## 🏗️ Expected Data Structure
 
 Since the `data` folder cannot be uploaded, ensure your data is organized as follows:
 
@@ -35,3 +37,11 @@ data/
     └── PhsZ/         # Phase-Z
 ```
 
+
+## 📖 Citation
+
+*(                                 )*
+
+## 🔑 License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
