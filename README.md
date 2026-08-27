@@ -92,3 +92,6 @@ The graphical user interface (GUI) is designed for efficient manual segmentation
 ## 🔑 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## Acknowledgement
+This material is based upon work supported by the National Science Foundation under Award No. 2205043 to Luigi E. Perotti (University of Central Florida) and Dazhong Wu (University of Central Florida), and 2205103 to Daniel B. Ennis (Stanford University and Veterans Affairs Palo Alto Health Care System). Any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
